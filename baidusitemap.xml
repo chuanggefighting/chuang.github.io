@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://chuanggefighting.github.io/2019/03/24/9-ajax%E8%AF%B7%E6%B1%82/</loc>
+    <lastmod>2019-03-27</lastmod>
+  </url>  <url>
     <loc>https://chuanggefighting.github.io/2019/03/16/7-jquery%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2019-03-26</lastmod>
   </url>  <url>
@@ -15,9 +18,6 @@
   </url>  <url>
     <loc>https://chuanggefighting.github.io/2019/02/09/1-hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2019-03-26</lastmod>
-  </url>  <url>
-    <loc>https://chuanggefighting.github.io/2019/03/24/9-ajax%E8%AF%B7%E6%B1%82/</loc>
-    <lastmod>2019-03-25</lastmod>
   </url>  <url>
     <loc>https://chuanggefighting.github.io/2019/03/19/8-js%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2019-03-24</lastmod>
